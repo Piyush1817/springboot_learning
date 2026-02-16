@@ -57,3 +57,25 @@ public class hello_world {
 
 // class Student extends BaseEntity { }
 // class Course extends BaseEntity { }
+
+// also used for custom exception
+// class UserNotFoundException extends RuntimeException {
+// }
+
+
+// runtime polymorphism 
+// class Animal {
+//     void sound() {
+//         System.out.println("Animal sound");
+//     }
+// }
+
+// class Dog extends Animal {
+//     void sound() {
+//         System.out.println("Bark");
+//     }
+// }
+// Animal animal = new Dog();
+// animal.sound();
+
+// Output:-Bark
