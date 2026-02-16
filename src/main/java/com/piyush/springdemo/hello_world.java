@@ -45,3 +45,15 @@ public class hello_world {
 
 //     }
 // }
+
+
+
+    // exampple of inheritance 
+// class BaseEntity {
+//     LocalDateTime createdAt;
+//     LocalDateTime updatedAt;
+// }
+
+
+// class Student extends BaseEntity { }
+// class Course extends BaseEntity { }
